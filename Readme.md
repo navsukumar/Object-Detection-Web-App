@@ -1,0 +1,1 @@
+This is a web application that performs object detction on images. The application lets the user upload a picture. Once the user uploads the picture, the program uses a Coco tensorflow model via an API call to perform object detection on the image. The prgram will draw bounding boxes on the objects it identifies and generate a caption for each object identified via an API call.
